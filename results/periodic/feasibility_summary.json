@@ -1,0 +1,24 @@
+{
+  "previous_bursty": {
+    "streams": 20,
+    "zero_miss_feasible": 20,
+    "mean_max_speed_miss_pct": 0.0
+  },
+  "previous_poisson": {
+    "streams": 20,
+    "zero_miss_feasible": 0,
+    "mean_max_speed_miss_pct": 5.9766039121344114
+  },
+  "fresh_bursty": {
+    "streams": 20,
+    "zero_miss_feasible": 20,
+    "mean_max_speed_miss_pct": 0.0
+  },
+  "fresh_poisson": {
+    "streams": 20,
+    "zero_miss_feasible": 0,
+    "mean_max_speed_miss_pct": 6.1845179531333345
+  },
+  "independent_event_and_tick_engines_match": true,
+  "scope": "Zero-miss feasibility for the synthetic serial fully preemptive model. Retained-job EDF miss count is not a lower bound on every policy miss count."
+}

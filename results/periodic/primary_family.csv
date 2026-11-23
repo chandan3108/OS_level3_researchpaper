@@ -1,0 +1,9 @@
+profile,cooling,overhead,pattern,scenario,target,baseline,endpoint,negative_n,positive_n,tied_n,nonzero_n,sign_p,holm_p,reject_at_05
+apple_inspired,ordinary,modeled_cost,bursty,accurate_to_low,calibrated_feedback,periodic_20,estimated_j_per_task,20,0,0,20,9.5367431640625e-07,7.62939453125e-06,True
+apple_inspired,ordinary,modeled_cost,bursty,accurate_to_low,calibrated_feedback,periodic_20,deadline_miss_pct,1,3,16,4,0.9375,1.0,False
+apple_inspired,ordinary,modeled_cost,bursty,high_to_low,calibrated_feedback,periodic_20,estimated_j_per_task,20,0,0,20,9.5367431640625e-07,7.62939453125e-06,True
+apple_inspired,ordinary,modeled_cost,bursty,high_to_low,calibrated_feedback,periodic_20,deadline_miss_pct,16,0,4,16,1.52587890625e-05,6.103515625e-05,True
+generic,ordinary,modeled_cost,bursty,accurate_to_low,calibrated_feedback,periodic_20,estimated_j_per_task,20,0,0,20,9.5367431640625e-07,7.62939453125e-06,True
+generic,ordinary,modeled_cost,bursty,accurate_to_low,calibrated_feedback,periodic_20,deadline_miss_pct,1,4,15,5,0.96875,1.0,False
+generic,ordinary,modeled_cost,bursty,high_to_low,calibrated_feedback,periodic_20,estimated_j_per_task,20,0,0,20,9.5367431640625e-07,7.62939453125e-06,True
+generic,ordinary,modeled_cost,bursty,high_to_low,calibrated_feedback,periodic_20,deadline_miss_pct,14,0,6,14,6.103515625e-05,0.00018310546875,True
