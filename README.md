@@ -30,3 +30,5 @@ python reproduce.py
 The second command runs the historical calibration cohort and the fresh periodic-recalibration cohort, both cost sensitivities, the feasibility checks and the post-hoc Batch 5 comparison. It verifies the result files against the paper's saved numerical outputs, regenerates the figures and tables in `report_ieee/` and rebuilds the website snapshot. The bundled demo uses the saved paper data immediately.
 
 [IEEE research paper (PDF)](report_ieee/OS_Project_IEEE_Report_Periodic_Recalibration.pdf) · [Research presentation (PowerPoint)](presentation/OS_Research_Presentation.pptx)
+
+[Companion literature review (PDF, 50 references)](literature_review/Energy_Aware_Scheduling_Review.pdf)
