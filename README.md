@@ -1,5 +1,8 @@
 # Completion Feedback versus Periodic Recalibration
 
+> [!IMPORTANT]
+> **AI-content check status as of 23 November 2026.** We revised this repository and the research paper on 21 November in response to the AI-content feedback we received on 18 November. We are still waiting for the report on the revised paper. Because the submission deadline is 24 November, we uploaded the earlier report, which covers the previous version of the paper, to the submission forms.
+
 An EDF Study with an Apple-Silicon-Inspired Model  
 Chandan N and Dhruv · PES University
 
